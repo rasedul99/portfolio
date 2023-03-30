@@ -1,0 +1,12 @@
+.overlay{
+background-image: url("https://i.ibb.co/8dP8MZc/herobg.png");
+background-repeat: no-repeat;
+background-position: 100% 100%;
+background-size: cover;
+}
+.colourText{
+    color : #915EFE;
+}
+h1{
+    display: inline-block;
+}
